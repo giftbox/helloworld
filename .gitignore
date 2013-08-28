@@ -2,6 +2,7 @@
 #    folder   #
 ###############
 /Debug/
+/helloworld/Debug/
 
 
 ###############
@@ -9,3 +10,6 @@
 ###############
 *.ncb
 *.sln
+*.suo
+*.vcproj
+*.user
