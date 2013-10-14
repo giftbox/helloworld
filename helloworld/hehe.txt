@@ -1,7 +1,4 @@
 sdjoifsiodfhohfuyoiuh
 This is what you want?
-<<<<<<< HEAD
 Yes
-=======
 Maybe no.
->>>>>>> d7b88440a1b96ab3fb6ccb0d6c18ac916f7f0557
