@@ -18,3 +18,5 @@ SOURCES += main.cpp\
 HEADERS  += mydialog.h
 
 FORMS    += mydialog.ui
+
+RC_FILE  = myicon.rc
