@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    ui->pushButton->setText(tr("a新窗口a"));
+    ui->pushButton->setText(tr("新窗口"));
 }
 
 MainWindow::~MainWindow()
